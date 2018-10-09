@@ -225,7 +225,7 @@ nav h1 a {
 .inside #footer {
   bottom: 0;
   position: absolute;
-  width: 50%;
+  width: 100%;
 }
 #restaurant-name {
   color: #f18200;
@@ -302,7 +302,7 @@ nav h1 a {
 	#breadcrumb {
 		width: 100%;
 	}
-	#restaurant-container, #reviews-container, .inside #footer {
+	#restaurant-container, #reviews-container {
 		width: 100%;
 	}
 }
